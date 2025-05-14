@@ -1,0 +1,9 @@
+Package: srhdcolors
+Title: SRHD Color Palette
+Version: 0.1.0
+Authors@R: person("Lisa", email = "ljones@srhd.org", role = c("aut", "cre"))
+Description: A simple package providing SRHD's custom color palette for use in R graphics.
+License: MIT
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.3.1
